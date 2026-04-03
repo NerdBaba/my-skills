@@ -1,0 +1,15 @@
+# work-sync
+
+this is a simple tool to keep your local git worktrees in sync.
+
+## how to use it
+
+first, you need to install it. just run:
+npm install -g work-sync
+
+then, to sync everything, run:
+work-sync sync
+
+it will look at all your worktrees and make sure they match the remote. if there's a conflict, it will stop and tell you.
+
+so just try it out. it's much faster than doing it by hand.

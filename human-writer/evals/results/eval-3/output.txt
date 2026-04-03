@@ -1,0 +1,11 @@
+Subject: project delay
+
+hey team,
+
+we're pushing the project back by a week.
+
+i'm sorry about the delay. the initial design we were using didn't work as well as i expected. we had some issues with how things were connecting and it felt like it was going to break soon if we didn't fix it now.
+
+so we're taking a few extra days to get the structure right. i think it's better to spend a bit more time now than to deal with constant bugs later.
+
+let me know if this affects anything you're working on.

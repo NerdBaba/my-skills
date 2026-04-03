@@ -1,0 +1,23 @@
+{
+  "skill_name": "human-writer",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "write a simple readme for this saying these are the skills i created for my use based on x and reddit posts. dont use emojis and make it human pattern, with simple stuff and no em dashes and no this that pattern (this is not simply big, its gigantic)",
+      "expected_output": "Simple, lowercase or sentence-case text. No emojis, no em dashes, no 'not only X but Y'. References X and Reddit. Natural flow.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Write a guide for a new internal CLI tool called 'work-sync'. It's for syncing local git worktrees. Keep it simple and direct for developers.",
+      "expected_output": "Direct verbs (like 'run', 'use', 'try'). No corporate jargon like 'leverage' or 'streamline'. Varied sentence lengths. No em dashes.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Write an email to my team about a project being delayed by a week. Be honest and explain it's because the initial design didn't work as expected. No corporate speak.",
+      "expected_output": "First-person ('I' or 'We'). No 'Furthermore' or 'Moreover'. No 'landscape' or 'synergy'. Honest and direct tone.",
+      "files": []
+    }
+  ]
+}
