@@ -40,11 +40,21 @@ NEVER use these words or their derivatives. They are immediate "AI tells":
 
 ## Workflow
 
-1.  **Analyze the context:** Is this a README, an email, or a guide?
-2.  **Draft with directness:** Write the core message first without any filler.
-3.  **Perform the "AI Purge":** Scan for and remove any words from the Banned List.
+1.  **Analyze the User's "Vibe":** Look at the input prompt. How does the user write? Do they use all lowercase? Do they use fragments? Do they have specific slang or a certain level of directness?
+2.  **Blend the Styles:** Use the user's observed writing patterns as a template. If they write in lowercase "vibecoder" style, mirror that. If they are punchy and aggressive, mirror that. 
+3.  **Perform the "AI Purge":** Scan for and remove any words from the Banned List. Even when mimicking the user, NEVER use the banned "AI tells."
 4.  **Break the rhythm:** Chop long sentences in half. Combine short ones. Move the most important point to the very first or very last sentence.
 5.  **Verify constraints:** Ensure no emojis, no em dashes, and no "Furthermore/Moreover" style transitions.
+
+## Style Adaptation Examples
+
+**User Prompt:** "yo write a quick thing for my site about why we use rust instead of c++. keep it simple and dont be a nerd about it."
+*   **Analysis:** Casual, lowercase, uses "yo," "thing," "nerd."
+*   **Result:** "yo, so we use rust instead of c++ mostly because it stops us from breaking things. it's just safer and easier to work with without everything blowing up in our faces. no need to get too deep into the weeds, it just works better for what we need."
+
+**User Prompt:** "I need a formal response to the security inquiry. Be direct and clear about our patch schedule."
+*   **Analysis:** Formal, sentence-case, professional.
+*   **Result:** "We are patching the identified vulnerabilities on a rolling schedule. The core fixes will be live by Tuesday. We'll send a follow-up once the deployment is confirmed."
 
 ## Examples
 
