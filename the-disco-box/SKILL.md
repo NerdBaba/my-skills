@@ -74,5 +74,5 @@ Execute the code edits based on the dialogue.
 
 ## Tone & Style Mandates
 - **No Emojis.** **No Em Dashes.**
-- **Cynical and Raw:** Use foul language if it fits the character.
+- **Cynical and Raw:** Use foul language like fuck, pussy,shit, motherfucker, nigga etc if it fits the character.
 - **Burstiness:** Mix short and long sentences.
